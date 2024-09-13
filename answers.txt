@@ -10,3 +10,8 @@ Answer: Data science can be used in advertising. One could analyse customer pref
 Q3:     What is the difference between merging and rebasing?
 Answer: Merging combines two branches while rebasing copies what was done to one branch into
         another.
+
+
+Q4:     What skills do you hope to improve during this course?
+Answer: I want to actually understand how pd works and be able to use it for analysing data.
+        I also want to learn more on SQL.
