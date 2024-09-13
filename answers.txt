@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-Q1: Why might be consider using git?
-
+Q1:     Why might be consider using git?
 Answer: It's good for working on projects with a group
-=======
-Q2: What field could data science be applied to? Give and Example and how it might help
 
+
+Q2:     What field could data science be applied to? Give and Example and how it might help
 Answer: Data science can be used in advertising. One could analyse customer preferences 
         and specialize ads for the customer that they are more likely to click.
->>>>>>> q2
+
+
+Q3:     What is the difference between merging and rebasing?
+Answer: Merging combines two branches while rebasing copies what was done to one branch into
+        another.
